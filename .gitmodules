@@ -1,0 +1,39 @@
+[submodule "akka"]
+	path = akka
+	url = git@github.com:mdedetrich/akka-apache.git
+[submodule "akka-persistence-r2dbc-apache"]
+	path = akka-persistence-r2dbc
+	url = git@github.com:mdedetrich/akka-persistence-r2dbc-apache.git
+[submodule "akka-persistence-jdbc-apache"]
+	path = akka-persistence-jdbc
+	url = git@github.com:mdedetrich/akka-persistence-jdbc-apache.git
+[submodule "akka-samples-cc0"]
+	path = akka-samples
+	url = git@github.com:mdedetrich/akka-samples-cc0.git
+[submodule "akka-platform-guide-apache"]
+	path = akka-platform-guide
+	url = git@github.com:mdedetrich/akka-platform-guide-apache.git
+[submodule "akka-persistence-dynamodb"]
+	path = akka-persistence-dynamodb
+	url = git@github.com:mdedetrich/akka-persistence-dynamodb-apache.git
+[submodule "akka-management"]
+	path = akka-management
+	url = git@github.com:mdedetrich/akka-management-apache.git
+[submodule "akka-persistence-cassandra"]
+	path = akka-persistence-cassandra
+	url = git@github.com:mdedetrich/akka-persistence-cassandra-apache.git
+[submodule "akka-projection"]
+	path = akka-projection
+	url = git@github.com:mdedetrich/akka-projection-apache.git
+[submodule "akka-grpc"]
+	path = akka-grpc
+	url = git@github.com:mdedetrich/akka-grpc-apache.git
+[submodule "alpakka-kafka"]
+	path = alpakka-kafka
+	url = git@github.com:mdedetrich/alpakka-kafka-apache.git
+[submodule "alpakka"]
+	path = alpakka
+	url = git@github.com:mdedetrich/alpakka-apache.git
+[submodule "akka-http"]
+	path = akka-http
+	url = git@github.com:mdedetrich/akka-http-apache.git
